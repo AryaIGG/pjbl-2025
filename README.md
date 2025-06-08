@@ -1,4 +1,4 @@
-# PJBL 2025 - Laravel Blog App
+# PJBL 2025 - Laravel Blog Website
 
 Project Laravel ini dibuat sebagai bagian dari PJBL kelas 11 semester 2 tahun 2025. Aplikasi ini merupakan blog sederhana dengan fitur CRUD dan filter berdasarkan penulis.
 
